@@ -1,0 +1,14 @@
+:root {
+  --darkGreen: #0e6f25;
+  --gold: #ffd51a;
+  --red: #ff0000;
+}
+
+body {
+  background-color: var(--darkGreen);
+  color: var(--gold);
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
